@@ -14,14 +14,6 @@
     <a href="https://github.com/y8ngspider/resume-tailor/issues">Report an issue</a>
   </p>
 
-  <p>
-    <a href="https://github.com/y8ngspider/resume-tailor/actions/workflows/ci.yml">
-      <img src="https://github.com/y8ngspider/resume-tailor/actions/workflows/ci.yml/badge.svg" alt="CI status">
-    </a>
-    <img src="https://img.shields.io/badge/Next.js-App_Router-000000?logo=nextdotjs" alt="Next.js App Router">
-    <img src="https://img.shields.io/badge/TypeScript-strict-3178C6?logo=typescript&logoColor=white" alt="TypeScript">
-    <img src="https://img.shields.io/badge/output-LaTeX-008080?logo=latex&logoColor=white" alt="LaTeX output">
-  </p>
 </div>
 
 <details>
