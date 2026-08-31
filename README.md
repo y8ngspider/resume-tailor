@@ -1,9 +1,7 @@
 <a id="readme-top"></a>
 
 <div align="center">
-  <a href="https://proofread-resume-tailor.y8ng.chatgpt.site">
-    <img src="public/og.png" alt="Proofread — Tailor the role. Keep the truth." width="760">
-  </a>
+  <img src="public/og.png" alt="Proofread — Tailor the role. Keep the truth." width="760">
 
   <h1>Proofread</h1>
 
@@ -15,8 +13,6 @@
   </p>
 
   <p>
-    <a href="https://proofread-resume-tailor.y8ng.chatgpt.site"><strong>Try the live demo</strong></a>
-    ·
     <a href="https://github.com/y8ngspider/resume-tailor/issues">Report an issue</a>
   </p>
 
@@ -51,7 +47,7 @@ Proofread accepts the body of an existing LaTeX resume and a job description. It
 
 The product is designed around one constraint: a polished resume is useful only if every claim remains true. Job descriptions are treated as targeting context, never as evidence about the candidate.
 
-The public demo includes sample inputs, so the complete workflow can be tested without entering personal information.
+The app includes sample inputs, so the complete workflow can be tested locally without entering personal information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
