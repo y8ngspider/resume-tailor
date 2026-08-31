@@ -1,8 +1,6 @@
 <a id="readme-top"></a>
 
 <div align="center">
-  <img src="public/og.png" alt="Proofread — Tailor the role. Keep the truth." width="760">
-
   <h1>Proofread</h1>
 
   <p>
